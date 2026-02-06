@@ -1,0 +1,16 @@
+src# Ignore secrets
+src/serviceAccountKey.json
+
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Google Cloud keys
+src/serviceAccountKey.json
+src/.ipynb_checkpoints/serviceAccountKey-checkpoint.json
+
+# ignore all ipynb checkpoints globally
+**/.ipynb_checkpoints/
