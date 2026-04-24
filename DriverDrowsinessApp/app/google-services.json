@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "196892956592",
+    "firebase_url": "https://driver-drowsiness-system-d98d9-default-rtdb.firebaseio.com",
+    "project_id": "driver-drowsiness-system-d98d9",
+    "storage_bucket": "driver-drowsiness-system-d98d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196892956592:android:0464ce6bcaae954eada875",
+        "android_client_info": {
+          "package_name": "com.example.driverdrowsinessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3_ExVwGwLZ8Vm-shjqZzRPVPPmoXCEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
